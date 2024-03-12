@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marqueztronics.
 - 👀 I’m interested in embedded systems, PCB design, blockchain, 3D printing, and more...
 - 🌱 I’m currently learning embedded systems.
-- 📫 How to reach me: I'm @marqueztronics almost everywhere
+- 📫 How to reach me: I'm @marqueztronics almost everywhere.
 - ⚡ Hobbies: Bycicles🚴| Motorsports and Sim Racing🏎️| Coffee ☕
 
 <!---
